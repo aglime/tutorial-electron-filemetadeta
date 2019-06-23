@@ -7,10 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron ."
   },
-  "keywords": [],
+  "keywords": [
+    "electron"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "electron": "^5.0.5"
+  },
+  "dependencies": {
     "electron": "^5.0.5"
   }
 }
